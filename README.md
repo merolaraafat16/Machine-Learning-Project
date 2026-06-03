@@ -54,7 +54,7 @@ The project covers:
 The following models were implemented and evaluated:
 
 * Logistic Regression
-* Decision Tree
+* XGBoost
 * Random Forest 
 
 
