@@ -91,19 +91,5 @@ A Python-based application was developed to:
 
 ---
 
-## Project Structure
 
-```
-├── data/                # Dataset
-├── notebooks/          # EDA & ML models
-├── app/                # Application code
-├── models/             # Saved models
-└── README.md
-```
-
----
-
-
-
----
 
