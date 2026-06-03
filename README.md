@@ -2,7 +2,7 @@
 [Working Streamlit app](https://cancer-project-machine-learning.streamlit.app/)
 # video presentation : 
 https://canva.link/o2it46wakfeojmv               
-# 🧬 Cancer Classification using Machine Learning
+#  Cancer Classification using Machine Learning
 
 
 ---
