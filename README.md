@@ -7,7 +7,7 @@ https://canva.link/o2it46wakfeojmv
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents a complete **end-to-end Machine Learning pipeline** for cancer classification using biomedical data.
 
@@ -22,7 +22,7 @@ The project covers:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Build a reliable classification model for cancer prediction
 * Compare multiple ML algorithms
@@ -31,7 +31,7 @@ The project covers:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * Biomedical dataset with multiple features related to cancer diagnosis
 * Includes numerical attributes representing cell characteristics
@@ -49,7 +49,7 @@ The project covers:
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The following models were implemented and evaluated:
 
@@ -60,7 +60,7 @@ The following models were implemented and evaluated:
 
 ---
 
-## 📈 Model Evaluation
+##  Model Evaluation
 
 Models were compared using:
 
@@ -98,7 +98,6 @@ A Python-based application was developed to:
 ├── notebooks/          # EDA & ML models
 ├── app/                # Application code
 ├── models/             # Saved models
-├── results/            # Figures & outputs
 └── README.md
 ```
 
