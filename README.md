@@ -4,9 +4,6 @@
 https://canva.link/o2it46wakfeojmv               
 # 🧬 Cancer Classification using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
 
@@ -107,32 +104,7 @@ A Python-based application was developed to:
 
 ---
 
-## ⚙️ Installation & Usage
 
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/cancer-ml-project.git
-cd cancer-ml-project
-```
-
-### 2️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### 4️⃣ Run the Application
-
-```bash
-python app.py
-```
 
 ---
 
