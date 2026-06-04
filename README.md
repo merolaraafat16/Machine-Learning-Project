@@ -29,7 +29,7 @@
 - [Tech Stack](#-tech-stack)
 - [How to Run](#-how-to-run)
 - [Project Structure](#-project-structure)
-- [Team Members](#-team-members)
+- [Author](#-Author)
 
 ---
 
