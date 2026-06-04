@@ -99,8 +99,6 @@ Models were evaluated using the following metrics:
 
 > 📌 Detailed results, confusion matrices, and comparison charts can be found inside the [`cancer_ml_project.ipynb`](./cancer_ml_project.ipynb) notebook.
 
-*(Add result screenshots here if available)*
-
 ---
 
 ## 🛠️ Tech Stack
